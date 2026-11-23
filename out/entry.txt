@@ -1,0 +1,1 @@
+I ship in hours what gets forgotten by Friday — with tests, a changelog, and honest diffs you can actually review.
